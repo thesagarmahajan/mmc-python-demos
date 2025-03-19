@@ -1,1 +1,2 @@
-print("This is new File")
+def sample():
+    return True
