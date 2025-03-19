@@ -20,11 +20,8 @@ finally:
 
 # Reusable Method / Library Method
 def division(dividend, divisor):
-    """
-        
-    """
     if divisor==0:
-        raise ZeroDivisionError("Cannot Divide by Zero")
+        raise ZeroDivisionError("Cannot Divide by Zero Mathematically.")
     return dividend/divisor
 
 # Application
